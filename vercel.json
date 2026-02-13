@@ -2,8 +2,6 @@
   "buildCommand": "",
   "outputDirectory": ".",
   "public": true,
-  "skipBuildIfEtag": true,
-  "regions": ["sfo1"],
   "cleanUrls": false,
   "trailingSlash": false,
   "headers": [
