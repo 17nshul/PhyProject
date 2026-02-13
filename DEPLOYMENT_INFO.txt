@@ -1,0 +1,48 @@
+# Project Structure & File Inventory
+
+## Root Level Files (Must Deploy):
+- index.html
+- vercel.json
+- bg1.mov (28MB - LARGE)
+- contactsectship.mp4 (13MB)
+- factory.jpg
+- harevster.jpg
+- shipment.jpg
+- farmshot.mp4 (17MB)
+- shipdrone.mp4 (11MB)
+
+## CSS Directory:
+- csss/iDonateStyle.css
+- csss/responsive.css
+
+## JavaScript Directory:
+- js/resp.js
+
+## Products Directory:
+- products/desichana.html
+- products/coconut.html
+- products/rice.html
+- products/cumin.html
+- products/groundpeanuts.html
+
+## Product Images:
+- products/desichana.jpg
+- products/coconut.jpg
+- products/rice.jpg
+- products/cumin.jpg
+- products/grounpeanuts.jpg
+
+## All Paths Use: Relative with ./ prefix
+Example: src="./factory.jpg" or src="./products/desichana.jpg"
+
+## Vercel Configuration:
+- vercel.json configured for static site serving
+- Video MIME types explicitly set
+- Cache headers optimized
+
+## Important Notes:
+- bg1.mov replaced with farmshot.mp4 in hero sect# Project Structure & File Inventory
+
+## Root Level Files (Must Deploy):
+- indes
+- No absolute paths present
